@@ -1,6 +1,6 @@
 # ADSK-TEST
 
-1. Run through one of favorite Quick Start samples available on here: https://developer.autodesk.com/en/docs/quickstarts/v1/overview/
+1. Run through one of favorite Forge Quick Start samples available on here: https://developer.autodesk.com/en/docs/quickstarts/v1/overview/
 
 2. Create simple nodejs service that handle single REST Request:
  ```

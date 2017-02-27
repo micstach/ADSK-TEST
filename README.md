@@ -2,7 +2,7 @@
 
 1. Run through one of favorite Forge Quick Start samples available on here: https://developer.autodesk.com/en/docs/quickstarts/v1/overview/
 
-2. Create (describe tools/frameworks) simple nodejs service that handle single REST Request:
+2. Create, design (describe tools/frameworks) simple nodejs service that handle single REST Request:
  ```
  GET: /add/:x/:y
  ```
@@ -10,5 +10,5 @@
  
  Dockerize this application
  
- Describe possible testing scenarios for that service/application
+ Key problem here is to describe possible testing scenarios for that service/application
  

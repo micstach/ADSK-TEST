@@ -6,7 +6,7 @@
  ```
  GET: /add/:x/:y
  ```
- and retuns the sum of two numbers `x` and `y`
+ and retuns the sum of two numbers `x` and `y` (simple text response)
  
  Dockerize this application
  
